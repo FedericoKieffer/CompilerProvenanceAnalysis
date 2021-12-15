@@ -1,1 +1,3 @@
 # CompilerProvenanceAnalysis
+
+The  present  work  focuses  on  the  solution  of  a  Machine  Learning  classification problem. In particular, the problem of compiler provenance has been tackled in a  double  fashion:  a  binary  classifier  that  can  predict  if  a  function  has  been compiled with optimization ‘High’ or ‘Low’ has been implemented, as well as a multiclass  classifier  that  can  predict  the  compiler  used  to  compile  a  specific function.
